@@ -1,0 +1,84 @@
+[
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/043.kmz"
+    },
+    "RouteName": "JOYCE STN/UBC",
+    "RouteNo": "043",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 1,
+        "ExpectedLeaveTime": "3:38pm",
+        "LastUpdate": "03:36:52 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "-"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 9,
+        "ExpectedLeaveTime": "3:46pm",
+        "LastUpdate": "02:44:01 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 19,
+        "ExpectedLeaveTime": "3:56pm",
+        "LastUpdate": "02:54:03 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 31,
+        "ExpectedLeaveTime": "4:08pm",
+        "LastUpdate": "03:06:12 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "-"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 39,
+        "ExpectedLeaveTime": "4:16pm",
+        "LastUpdate": "03:14:05 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 48,
+        "ExpectedLeaveTime": "4:25pm",
+        "LastUpdate": "03:23:05 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      }
+    ]
+  }
+]

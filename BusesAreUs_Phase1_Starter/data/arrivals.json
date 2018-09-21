@@ -1,0 +1,552 @@
+[
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/025.kmz"
+    },
+    "RouteName": "BRENTWOOD STN/UBC             ",
+    "RouteNo": "025",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRENTWOOD STN",
+        "ExpectedCountdown": 4,
+        "ExpectedLeaveTime": "3:32pm",
+        "LastUpdate": "02:31:04 pm",
+        "Pattern": "EB1B5",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRENTWOOD STN",
+        "ExpectedCountdown": 14,
+        "ExpectedLeaveTime": "3:42pm",
+        "LastUpdate": "02:41:04 pm",
+        "Pattern": "EB1B5",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRENTWOOD STN",
+        "ExpectedCountdown": 21,
+        "ExpectedLeaveTime": "3:49pm",
+        "LastUpdate": "02:48:06 pm",
+        "Pattern": "EB1B5",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRENTWOOD STN",
+        "ExpectedCountdown": 30,
+        "ExpectedLeaveTime": "3:58pm",
+        "LastUpdate": "02:57:07 pm",
+        "Pattern": "EB1B5",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRENTWOOD STN",
+        "ExpectedCountdown": 38,
+        "ExpectedLeaveTime": "4:06pm",
+        "LastUpdate": "03:05:06 pm",
+        "Pattern": "EB1B5",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRENTWOOD STN",
+        "ExpectedCountdown": 46,
+        "ExpectedLeaveTime": "4:14pm",
+        "LastUpdate": "03:13:06 pm",
+        "Pattern": "EB1B5",
+        "ScheduleStatus": " "
+      }
+    ]
+  },
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/033.kmz"
+    },
+    "RouteName": "29 AVE STN/ UBC",
+    "RouteNo": "033",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "29TH AVE STN",
+        "ExpectedCountdown": -1,
+        "ExpectedLeaveTime": "3:27pm",
+        "LastUpdate": "03:28:35 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "29TH AVE STN",
+        "ExpectedCountdown": 9,
+        "ExpectedLeaveTime": "3:37pm",
+        "LastUpdate": "03:27:47 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "29TH AVE STN",
+        "ExpectedCountdown": 20,
+        "ExpectedLeaveTime": "3:48pm",
+        "LastUpdate": "02:46:09 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "29TH AVE STN",
+        "ExpectedCountdown": 30,
+        "ExpectedLeaveTime": "3:58pm",
+        "LastUpdate": "02:56:06 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "29TH AVE STN",
+        "ExpectedCountdown": 41,
+        "ExpectedLeaveTime": "4:09pm",
+        "LastUpdate": "03:07:03 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "29TH AVE STN",
+        "ExpectedCountdown": 52,
+        "ExpectedLeaveTime": "4:20pm",
+        "LastUpdate": "03:18:07 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      }
+    ]
+  },
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/041.kmz"
+    },
+    "RouteName": "JOYCE STN/CROWN/UBC           ",
+    "RouteNo": "041",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 3,
+        "ExpectedLeaveTime": "3:31pm",
+        "LastUpdate": "02:29:02 pm",
+        "Pattern": "EB1REG",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 10,
+        "ExpectedLeaveTime": "3:38pm",
+        "LastUpdate": "02:36:04 pm",
+        "Pattern": "EB1REG",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 17,
+        "ExpectedLeaveTime": "3:45pm",
+        "LastUpdate": "02:43:03 pm",
+        "Pattern": "EB1REG",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 24,
+        "ExpectedLeaveTime": "3:52pm",
+        "LastUpdate": "02:50:13 pm",
+        "Pattern": "EB1REG",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 33,
+        "ExpectedLeaveTime": "4:01pm",
+        "LastUpdate": "02:59:08 pm",
+        "Pattern": "EB1REG",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 40,
+        "ExpectedLeaveTime": "4:08pm",
+        "LastUpdate": "03:06:02 pm",
+        "Pattern": "EB1REG",
+        "ScheduleStatus": " "
+      }
+    ]
+  },
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/043.kmz"
+    },
+    "RouteName": "JOYCE STN/UBC",
+    "RouteNo": "043",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 8,
+        "ExpectedLeaveTime": "3:36pm",
+        "LastUpdate": "02:34:02 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 21,
+        "ExpectedLeaveTime": "3:49pm",
+        "LastUpdate": "02:44:09 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "-"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 28,
+        "ExpectedLeaveTime": "3:56pm",
+        "LastUpdate": "02:54:02 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 38,
+        "ExpectedLeaveTime": "4:06pm",
+        "LastUpdate": "03:04:05 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 48,
+        "ExpectedLeaveTime": "4:16pm",
+        "LastUpdate": "03:14:07 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "JOYCE STN",
+        "ExpectedCountdown": 57,
+        "ExpectedLeaveTime": "4:25pm",
+        "LastUpdate": "03:23:10 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      }
+    ]
+  },
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/049.kmz"
+    },
+    "RouteName": "METROTOWN STN/DUNBAR LOOP/UBC   ",
+    "RouteNo": "049",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "METROTOWN STN",
+        "ExpectedCountdown": 2,
+        "ExpectedLeaveTime": "3:30pm",
+        "LastUpdate": "03:28:23 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "-"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "METROTOWN STN",
+        "ExpectedCountdown": 4,
+        "ExpectedLeaveTime": "3:32pm",
+        "LastUpdate": "02:30:08 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "METROTOWN STN",
+        "ExpectedCountdown": 8,
+        "ExpectedLeaveTime": "3:36pm",
+        "LastUpdate": "02:34:03 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "METROTOWN STN",
+        "ExpectedCountdown": 15,
+        "ExpectedLeaveTime": "3:43pm",
+        "LastUpdate": "02:41:08 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "METROTOWN STN",
+        "ExpectedCountdown": 20,
+        "ExpectedLeaveTime": "3:48pm",
+        "LastUpdate": "02:46:02 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "METROTOWN STN",
+        "ExpectedCountdown": 25,
+        "ExpectedLeaveTime": "3:53pm",
+        "LastUpdate": "02:51:02 pm",
+        "Pattern": "EB1",
+        "ScheduleStatus": "*"
+      }
+    ]
+  },
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/480.kmz"
+    },
+    "RouteName": "UBC/BRIDGEPORT STN          ",
+    "RouteNo": "480",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRIDGEPORT STN",
+        "ExpectedCountdown": -1,
+        "ExpectedLeaveTime": "3:27pm",
+        "LastUpdate": "03:26:29 pm",
+        "Pattern": "EB1BP",
+        "ScheduleStatus": "+"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRIDGEPORT STN",
+        "ExpectedCountdown": 15,
+        "ExpectedLeaveTime": "3:43pm",
+        "LastUpdate": "02:42:04 pm",
+        "Pattern": "EB1BP",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRIDGEPORT STN",
+        "ExpectedCountdown": 27,
+        "ExpectedLeaveTime": "3:55pm",
+        "LastUpdate": "02:54:05 pm",
+        "Pattern": "EB1BP",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRIDGEPORT STN",
+        "ExpectedCountdown": 37,
+        "ExpectedLeaveTime": "4:05pm",
+        "LastUpdate": "03:04:06 pm",
+        "Pattern": "EB1BP",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRIDGEPORT STN",
+        "ExpectedCountdown": 47,
+        "ExpectedLeaveTime": "4:15pm",
+        "LastUpdate": "03:14:02 pm",
+        "Pattern": "EB1BP",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "BRIDGEPORT STN",
+        "ExpectedCountdown": 52,
+        "ExpectedLeaveTime": "4:20pm",
+        "LastUpdate": "03:19:06 pm",
+        "Pattern": "EB1BP",
+        "ScheduleStatus": " "
+      }
+    ]
+  },
+  {
+    "Direction": "WEST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/C20.kmz"
+    },
+    "RouteName": "TOTEM PARK/UBC LOOP",
+    "RouteNo": "C20",
+    "Schedules": [
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "MARINE DR VIA TOTEM PK",
+        "ExpectedCountdown": 19,
+        "ExpectedLeaveTime": "3:47pm",
+        "LastUpdate": "02:45:07 pm",
+        "Pattern": "WB2DT",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "MARINE DR VIA TOTEM PK",
+        "ExpectedCountdown": 49,
+        "ExpectedLeaveTime": "4:17pm",
+        "LastUpdate": "03:15:10 pm",
+        "Pattern": "WB2DT",
+        "ScheduleStatus": " "
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "MARINE DR VIA TOTEM PK",
+        "ExpectedCountdown": 79,
+        "ExpectedLeaveTime": "4:47pm",
+        "LastUpdate": "09:00:01 pm",
+        "Pattern": "WB2DT",
+        "ScheduleStatus": "*"
+      },
+      {
+        "AddedStop": false,
+        "AddedTrip": false,
+        "CancelledStop": false,
+        "CancelledTrip": false,
+        "Destination": "MARINE DR VIA TOTEM PK",
+        "ExpectedCountdown": 109,
+        "ExpectedLeaveTime": "5:17pm",
+        "LastUpdate": "09:00:01 pm",
+        "Pattern": "WB2DT",
+        "ScheduleStatus": "*"
+      }
+    ]
+  }
+]
